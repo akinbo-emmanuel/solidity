@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/MyContract.sol": "ConditionalsAndLoops"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/MyContract.sol": {
+			"keccak256": "0xb23a5569b09f3413902f3e37c32ef643470102f15902ef91f2bad3cf23f44623",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://48fb2011e15e86a2ae1856c1799e62881845e9a3faf6ad9c288731ef3cf1466b",
+				"dweb:/ipfs/QmdeF7wgzquWZsb8uEhQhLKcvazgPsgKCHRNDSS7wgDAdM"
+			]
+		}
+	},
+	"version": 1
+}
