@@ -70,7 +70,3 @@ contract Mappings{
         myBooks[msg.sender][_id] = Book(_title, _author);
     }
 }
-
-contract ConditionalsAndLoops{
-    
-}
