@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MyContract2.sol": "Name"
+			"contracts/MyContract2.sol": "Inhe"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/MyContract2.sol": {
-			"keccak256": "0x5d782e2967ced021e490826e78834eef028e7b1801de78723fe98029c996318e",
+			"keccak256": "0xdb878a62392a090ecdc850f9beaf9a060d4acd757c2ef0b37f208c34f10dacf7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9b53232610b9478a60b04d2b448bedaa863ae4cc4939244c8024b9946e070cee",
-				"dweb:/ipfs/QmQYV47Z5jFY73zC9shpET7KxFQPc59y2EQpcE3PFGpvvY"
+				"bzz-raw://7489ff0f75ec97d45b45030bd93803640c634eba25f598c138198ed5cc6b758c",
+				"dweb:/ipfs/QmcgeAX2EPVmP9PscdQ3Y6PiCZA3evAjSTCeje2TKYNoRG"
 			]
 		}
 	},

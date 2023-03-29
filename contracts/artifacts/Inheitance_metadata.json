@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MyContract2.sol": "Name"
+			"contracts/MyContract2.sol": "Inheitance"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/MyContract2.sol": {
-			"keccak256": "0x5d782e2967ced021e490826e78834eef028e7b1801de78723fe98029c996318e",
+			"keccak256": "0x0e1a8060688914abef623f9329c0a2974d5f891b32ee711cee3f2eed3761c15d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9b53232610b9478a60b04d2b448bedaa863ae4cc4939244c8024b9946e070cee",
-				"dweb:/ipfs/QmQYV47Z5jFY73zC9shpET7KxFQPc59y2EQpcE3PFGpvvY"
+				"bzz-raw://95f224b20c79d8d9baff51ddd977e1489b34433b2621c123f681700fef7b8c0e",
+				"dweb:/ipfs/QmSgiYPaLcopQWXDcBPmpZ1wj1cmAMVQXGJRLhmCXReji8"
 			]
 		}
 	},

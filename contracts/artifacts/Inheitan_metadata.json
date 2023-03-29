@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MyContract2.sol": "Name"
+			"contracts/MyContract2.sol": "Inheitan"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/MyContract2.sol": {
-			"keccak256": "0x5d782e2967ced021e490826e78834eef028e7b1801de78723fe98029c996318e",
+			"keccak256": "0x395476caedaf28dafdeb15227ff954a7e5bdf9c50378952682f100e03a92b600",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9b53232610b9478a60b04d2b448bedaa863ae4cc4939244c8024b9946e070cee",
-				"dweb:/ipfs/QmQYV47Z5jFY73zC9shpET7KxFQPc59y2EQpcE3PFGpvvY"
+				"bzz-raw://de1501d55b90cc784c53ddb2e58336c601835d1eeb7bf3864c4e48420421e23c",
+				"dweb:/ipfs/QmRkLPPX2rfrEx7Bwf8cbHsXT6avUyYsFnYAXzps4JuH8G"
 			]
 		}
 	},

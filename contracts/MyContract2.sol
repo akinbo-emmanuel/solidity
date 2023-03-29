@@ -24,3 +24,9 @@ contract ConditionalsAndLoops{
         }
     }
 }
+
+contract Inheritance {
+    // Inheritance
+    // Factories
+    // Interaction
+}

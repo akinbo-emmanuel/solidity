@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MyContract2.sol": "Name"
+			"contracts/MyContract2.sol": "Inheritance"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/MyContract2.sol": {
-			"keccak256": "0x5d782e2967ced021e490826e78834eef028e7b1801de78723fe98029c996318e",
+			"keccak256": "0x2845109d5115e9b87a467b81158097466e861830f049f7b418bb836e4f7fa987",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9b53232610b9478a60b04d2b448bedaa863ae4cc4939244c8024b9946e070cee",
-				"dweb:/ipfs/QmQYV47Z5jFY73zC9shpET7KxFQPc59y2EQpcE3PFGpvvY"
+				"bzz-raw://4b0ad001f4e52b043c764f516ef2a9c2fa50fdf564248cea8642874bcdbda40f",
+				"dweb:/ipfs/QmPDUAbyuVkFkhqKgQPYceyRAnNEN67wvjoQiDVLbTemUQ"
 			]
 		}
 	},
